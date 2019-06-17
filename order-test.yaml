@@ -11,5 +11,5 @@ spring:
     show-sql: true
 env: test3
 girl:
-  name: lili
-  age: 18
+  name: miaomiao
+  age: 30
