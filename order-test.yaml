@@ -9,7 +9,7 @@ spring:
     username: root
   jpa:
     show-sql: true
-env: test
+env: test2
 girl:
   name: miaomiao
   age: 18
